@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@testing-library/cypress": "^10.0.3",
     "concurrently": "^8.2.0",
     "cypress": "^13.13.0",
     "react": "^18.3.1",
